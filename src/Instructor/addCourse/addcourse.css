@@ -1,0 +1,10 @@
+.formDiv {
+  max-width: 500px;
+  justify-content: center;
+  margin-top: 130px;
+  margin-left: 200px;
+}
+
+.btn-outline-dark {
+  margin-bottom: 25%;
+}

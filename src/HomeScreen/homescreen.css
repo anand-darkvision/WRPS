@@ -1,0 +1,6 @@
+.nav-link {
+  font-size: 1.1em;
+}
+.nav-link:hover {
+  color: black !important;
+}
